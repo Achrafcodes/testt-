@@ -1,0 +1,12 @@
+* {
+  background: purple;
+  margin: 0;
+  padding: 0;
+}
+h1 {
+  color: white;
+  font-family: monospace;
+  text-align: center;
+  justify-content: center;
+  margin-top: 25%;
+}
